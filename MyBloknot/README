@@ -1,0 +1,2 @@
+Implementation of a PhoneBook.
+Project uses file communication and saves all data about users and their contacts in .txt file
