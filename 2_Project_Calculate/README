@@ -1,0 +1,3 @@
+We have two different projects which work asynchronously. First project writes a mathematical expression and waits for another project to read and calculate it.
+When the second project calculates the expression it writes the answer in the same file.
+And at this moment the First project reads the answer and prints on console.
