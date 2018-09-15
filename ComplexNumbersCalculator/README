@@ -1,0 +1,2 @@
+Implementation of a simple Complex-Number Calculator.
+Imput format should be (a+bi)+(c+di) . (You can also use  "*" , "/" , "-" instead of "+" in the example.)
